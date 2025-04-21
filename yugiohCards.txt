@@ -1,4 +1,13 @@
 1. Dark Magician Girl
+2. Tester kuribo
+3. Buster Blader
+4. Summoned Skull
+5. Celtic Guardian
+6. Gaia the Fierce Knight
+7. Black Luster Soldier
+8. Swords of Revealing Light
+9. Mirror Force
+10. Monster Reborn
 11. Dark Necrofear
 12. Destiny Board
 13. The Earl of Demise
@@ -9,4 +18,3 @@
 18. Spirit Message "A"
 19. Spirit Message "L"
 20. Necroface
-10. Monster Reborn
