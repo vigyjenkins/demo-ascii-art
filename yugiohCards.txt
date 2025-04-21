@@ -16,4 +16,3 @@
 16. Spirit Message "I"
 17. Spirit Message "N"
 18. Spirit Message "A"
-19. Spirit Message "L"
